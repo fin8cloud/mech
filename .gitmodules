@@ -1,0 +1,6 @@
+[submodule "sox"]
+	path = sox
+	url = https://github.com/fin8cloud/sox.git
+[submodule "nonsox"]
+	path = nonsox
+	url = https://github.com/fin8cloud/nonsox.git
