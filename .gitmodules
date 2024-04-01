@@ -1,0 +1,12 @@
+[submodule "copy"]
+	path = copy
+	url = https://github.com/fin8cloud/sox.git
+[submodule "sqlinc"]
+	path = sqlinc
+	url = https://github.com/fin8cloud/sox.git
+[submodule "sqlinc_nonsox"]
+	path = sqlinc_nonsox
+	url = https://github.com/fin8cloud/nonsox.git
+[submodule "copy_nonsox"]
+	path = copy_nonsox
+	url = https://github.com/fin8cloud/nonsox.git
